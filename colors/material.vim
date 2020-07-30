@@ -95,7 +95,7 @@ elseif g:material_theme_style == 'darker'
   let s:line_highlight = { 'gui': '#171717', 'cterm': 0 }
 elseif g:material_theme_style == 'ocean'
   let s:bg = { 'gui': '#0f111a', 'cterm': 'none' }
-  let s:fg = { 'gui': '##b3b8cc', 'cterm': 103 }
+  let s:fg = { 'gui': '#b3b8cc', 'cterm': 103 }
   let s:invisibles = { 'gui': '#80869e', 'cterm': 103 }
   let s:comments = { 'gui': '#464b5d', 'cterm': 60 }
   let s:selection = { 'gui': '#1f2233', 'cterm': 60 }
